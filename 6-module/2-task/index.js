@@ -32,9 +32,7 @@ export default class ProductCard {
   }
 
   productAdd(event){
+
   }
 
-  // get elem(){
-  //   return this.elem
-  // }
 }
